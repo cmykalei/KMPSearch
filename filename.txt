@@ -1,0 +1,6 @@
+this is a plain text file.
+blue cheese is a type of cheese
+ababababcabab
+aaaa
+zyxwvutsrqponmlkjihgfedcbabcdefghijklmnopqrstuvwxyz
+end of file.
